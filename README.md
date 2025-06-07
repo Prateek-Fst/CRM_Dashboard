@@ -51,8 +51,7 @@ A modern Customer Relationship Management (CRM) web application built with React
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/crm-web-app.git
-cd crm-web-app
+git clone https://github.com/Prateek-Fst/CRM_Dashboard.git
 
 # Install dependencies
 npm install
